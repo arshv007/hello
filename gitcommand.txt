@@ -1,0 +1,8 @@
+git config --global user.name "arshv007"
+git config --global user.email "arshverma67@gmail.com"
+git init
+git add filename
+git add .
+git commit -m "first commit"
+git remote add origin " "
+git push -u origin master
